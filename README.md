@@ -1,2 +1,2 @@
 # Student-Crud-App
-This is my first Spring boot Crud app
+This is my first Crud app using spring boot
